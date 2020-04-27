@@ -3,3 +3,6 @@ Estoy haciendo el primer git
 pero esta vez si haciéndolo con platzi 
 
 al mismo tiempo. Además le agrego este texto
+
+
+le agrego un nuevo parrafo para ver lalala
