@@ -1,5 +1,5 @@
 Estoy haciendo el primer git
 
-pero esta vez si haciendolo con platzi 
+pero esta vez si haciéndolo con platzi 
 
-al mismo tiempo
+al mismo tiempo. Además le agrego este texto
