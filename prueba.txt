@@ -1,2 +1,3 @@
 haciendo una prueba de git
  2
+ me fijo como hago el cambio en git
